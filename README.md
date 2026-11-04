@@ -37,7 +37,7 @@ Os resultados foram organizados em um dashboard no Power BI, com filtros para ex
 
 ## Resultados
 
-## Visualização do dashboard
+Visualização do dashboard
 
 ![Dashboard de Inteligência Operacional](dashboard.png)
 
