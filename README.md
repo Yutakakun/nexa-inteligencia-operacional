@@ -23,12 +23,6 @@ O objetivo é transformar registros operacionais em informações que auxiliem a
 - Distribuição de solicitações por setor responsável.
 - Distribuição por prioridade.
 
-## Resultados
-
-## Visualização do dashboard
-
-![Dashboard de Inteligência Operacional](dashboard.png)
-
 A análise de uma base fictícia de 30 solicitações apresentou:
 
 | Indicador | Resultado |
@@ -40,6 +34,12 @@ A análise de uma base fictícia de 30 solicitações apresentou:
 | Tempo médio de resolução | 5,07 dias |
 
 Os resultados foram organizados em um dashboard no Power BI, com filtros para exploração dos indicadores por setor e prioridade.
+
+## Resultados
+
+## Visualização do dashboard
+
+![Dashboard de Inteligência Operacional](dashboard.png)
 
 ## Finalidade
 
