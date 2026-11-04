@@ -37,7 +37,7 @@ A análise de uma base fictícia de 30 solicitações apresentou:
 
 Os resultados foram organizados em um dashboard no Power BI, com filtros para exploração dos indicadores por setor e prioridade.
 
-##Visualização do dashboard
+## Visualização do dashboard
 
 ![Dashboard de Inteligência Operacional](dashboard.png)
 
