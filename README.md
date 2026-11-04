@@ -25,6 +25,10 @@ O objetivo é transformar registros operacionais em informações que auxiliem a
 
 ## Resultados
 
+## Visualização do dashboard
+
+![Dashboard de Inteligência Operacional](dashboard.png)
+
 A análise de uma base fictícia de 30 solicitações apresentou:
 
 | Indicador | Resultado |
